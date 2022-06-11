@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://voluble-pasca-354dcc.netlify.app/"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
