@@ -1,7 +1,7 @@
 ---
 title: "First"
 date: 2022-06-11T08:47:35-04:00
-draft: false
+draft: true
 categories: ["tech"]
 tags: ["html", "css"]
 cover:
