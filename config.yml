@@ -1,6 +1,7 @@
 baseURL: "https://voluble-pasca-354dcc.netlify.app/"
 languageCode: en-us
-title: Demo for Hugo
+title: a semi-active blog
+author: estifanos beyene
 theme: PaperMod
 
 params:
